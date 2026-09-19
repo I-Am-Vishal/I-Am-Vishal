@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @I-Am-Vishal
-- 👀 I’m interested in Video Games 
-- 🌱 I’m currently learning to be Happy
-- 💞️ I’m looking to collaborate on Web Projects
-- 📫 How to reach me rajvish7774@gmail.com
+# 👋 Hey, I’m Vishal (@I-Am-Vishal)
 
-<!---
-I-Am-Vishal/I-Am-Vishal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Full-Stack Developer** | 🤖 Exploring **AI & GenAI** | 🎮 Video Game Enthusiast
+
+* 🌱 Currently learning, building, and figuring out how to be happy along the way.
+* 🚀 Interested in **Web Development, AI, and building useful things**.
+* 🤝 Open to collaborating on interesting **Web & Software Projects**.
+* 🎮 When I’m not coding, you’ll probably find me playing video games.
+* 📫 Reach me at **[rajvish7774@gmail.com](mailto:rajvish7774@gmail.com)**
+
+> *Build. Learn. Break. Fix. Repeat. 🚀*
